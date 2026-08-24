@@ -1,7 +1,8 @@
 {
-  "name": "rest-express",
+  "name": "product-academy",
   "version": "1.0.0",
   "type": "module",
+  "description": "A mobile-first product management learning platform with AI coaching, progress tracking, and instructor tools.",
   "license": "MIT",
   "scripts": {
     "dev:client": "vite dev --port 5000",
