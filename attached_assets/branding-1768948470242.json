@@ -1,0 +1,88 @@
+{
+  "colorScheme": "light",
+  "fonts": [
+    {
+      "family": "Maison_Neue_Book",
+      "count": 32
+    },
+    {
+      "family": "Arial",
+      "count": 31
+    },
+    {
+      "family": "Maison_Neue_Bold",
+      "count": 22
+    },
+    {
+      "family": "Poppins",
+      "count": 11
+    },
+    {
+      "family": "sans-serif",
+      "count": 8
+    }
+  ],
+  "colors": {
+    "primary": "#F42A72",
+    "accent": "#1B4E60",
+    "background": "#000000",
+    "textPrimary": "#000000",
+    "link": "#1B4E60"
+  },
+  "typography": {
+    "fontFamilies": {
+      "primary": "Poppins",
+      "heading": "Maison_Neue_Bold"
+    },
+    "fontStacks": {
+      "body": [
+        "Poppins"
+      ],
+      "heading": [
+        "Maison_Neue_Bold"
+      ],
+      "paragraph": [
+        "Maison_Neue_Book"
+      ]
+    },
+    "fontSizes": {
+      "h1": "64px",
+      "h2": "32px",
+      "body": "16px"
+    }
+  },
+  "spacing": {
+    "baseUnit": 4,
+    "borderRadius": "4px"
+  },
+  "components": {},
+  "images": {
+    "logo": "File saved at: attached_assets/logo.png",
+    "favicon": "File saved at: attached_assets/favicon.png",
+    "ogImage": "File saved at: attached_assets/ogImage.jpg"
+  },
+  "__framework_hints": [],
+  "__llm_logo_reasoning": {
+    "selectedIndex": 0,
+    "reasoning": "Strong indicators: header logo linking to homepage, header location, visible, alt matches logo/brand, class contains logo, reasonable size. Score: 103 (clear winner by 73 points)",
+    "confidence": 0.9
+  },
+  "__llm_button_reasoning": {
+    "primary": {
+      "index": -1,
+      "text": "N/A",
+      "reasoning": "LLM failed"
+    },
+    "secondary": {
+      "index": -1,
+      "text": "N/A",
+      "reasoning": "LLM failed"
+    },
+    "confidence": 0
+  },
+  "confidence": {
+    "buttons": 0,
+    "colors": 0,
+    "overall": 0
+  }
+}

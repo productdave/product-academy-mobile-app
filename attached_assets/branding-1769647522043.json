@@ -1,0 +1,80 @@
+{
+  "colorScheme": "light",
+  "fonts": [
+    {
+      "family": "Manrope",
+      "count": 41
+    },
+    {
+      "family": "sans-serif",
+      "count": 41
+    }
+  ],
+  "colors": {
+    "primary": "#57B262",
+    "accent": "#57B262",
+    "background": "#F5F4EF",
+    "textPrimary": "#212121",
+    "link": "#57B262"
+  },
+  "typography": {
+    "fontFamilies": {
+      "primary": "Manrope",
+      "heading": "Manrope"
+    },
+    "fontStacks": {
+      "body": [
+        "Manrope",
+        "sans-serif"
+      ],
+      "heading": [
+        "Manrope",
+        "sans-serif"
+      ],
+      "paragraph": [
+        "Manrope",
+        "sans-serif"
+      ]
+    },
+    "fontSizes": {
+      "h1": "24px",
+      "h2": "18px",
+      "body": "14px"
+    }
+  },
+  "spacing": {
+    "baseUnit": 6,
+    "borderRadius": "0px"
+  },
+  "components": {},
+  "images": {
+    "logo": "File saved at: attached_assets/logo.svg",
+    "favicon": "https://julie-insight-leadership-coaching.replit.app/attached_assets/favicon.png",
+    "ogImage": "https://julie-insight-leadership-coaching.replit.app/opengraph.jpg"
+  },
+  "__framework_hints": [],
+  "__llm_logo_reasoning": {
+    "selectedIndex": 0,
+    "reasoning": "Logo rejected: Red flags detected (small square icon). Strong indicators: header logo linking to homepage, header location, visible, small square icon (likely UI icon, heavy penalty), SVG format. Score: 76 (clear winner by 25 points)",
+    "confidence": 0.9,
+    "rejected": true
+  },
+  "__llm_button_reasoning": {
+    "primary": {
+      "index": -1,
+      "text": "N/A",
+      "reasoning": "LLM failed"
+    },
+    "secondary": {
+      "index": -1,
+      "text": "N/A",
+      "reasoning": "LLM failed"
+    },
+    "confidence": 0
+  },
+  "confidence": {
+    "buttons": 0,
+    "colors": 0,
+    "overall": 0
+  }
+}
